@@ -9,7 +9,7 @@ El archivo se guarda en una carpeta compartida a través de un servidor Samba/NF
 
 ## 📁 Ruta del archivo compartido
 
-`\\192.168.1.9\sharetexto.txt`
+`\\192.168.1.9\share\texto.txt`
 
 ## ⚙️ Tecnologías
 
