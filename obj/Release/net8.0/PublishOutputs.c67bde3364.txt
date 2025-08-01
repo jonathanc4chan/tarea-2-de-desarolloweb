@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\share\CompartirTXT.exe
+C:\inetpub\wwwroot\share\appsettings.Development.json
+C:\inetpub\wwwroot\share\appsettings.json
+C:\inetpub\wwwroot\share\CompartirTXT.dll
+C:\inetpub\wwwroot\share\CompartirTXT.deps.json
+C:\inetpub\wwwroot\share\CompartirTXT.runtimeconfig.json
+C:\inetpub\wwwroot\share\CompartirTXT.pdb
